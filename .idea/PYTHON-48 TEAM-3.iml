@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.12 (PYTHON48-3-TEAM)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="~\PycharmProjects\PYTHON-48 TEAM-3\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
